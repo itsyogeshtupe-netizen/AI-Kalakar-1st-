@@ -1,0 +1,6 @@
+{
+  "name": "Aikalakar AI Video Agency",
+  "description": "Where AI Meets Creativity - India's next-generation AI video production and creative content agency delivering premium cinematic ads, corporate solutions, documentaries, and social media content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
